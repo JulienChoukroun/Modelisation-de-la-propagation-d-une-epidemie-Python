@@ -5,7 +5,7 @@
 ## Présentation
 Ce projet a été réalisé avec le langage Python.
 
-Pour ce projet, nous utilisons un modèle SIR ayant la particularité de tenir compte de la présence d’un traitement. Nous avons la population N qui est divisée en quatre compartiments : S, I, T et R tels que : N=S+I+T+R.
+Pour ce projet, un modèle SIR a été utilisé. Ce modèle a la particularité de tenir compte de la présence d’un traitement. Nous avons la population N qui est divisée en quatre compartiments : S, I, T et R tels que : N=S+I+T+R.
 
 S représente les sujets susceptibles d’être infectés, I représente les personnes infectieuses, R représente les personnes dites « rétablies », T représente les traités.
 
