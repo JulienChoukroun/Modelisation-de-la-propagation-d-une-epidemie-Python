@@ -19,3 +19,6 @@ Différentes méthodes de résolution de système ont été utilisées, comme la
 
 Des exemples de résultats :
 
+![alt text](https://github.com/JulienChoukroun/Modelisation-de-la-propagation-d-une-epidemie-Python/blob/master/Images/Resultat1.png "Résultats 1")
+
+![alt text](https://github.com/JulienChoukroun/Modelisation-de-la-propagation-d-une-epidemie-Python/blob/master/Images/Resultat2.png "Résultats 2")
