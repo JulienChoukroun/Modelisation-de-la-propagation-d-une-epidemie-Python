@@ -11,6 +11,8 @@ S représente les sujets susceptibles d’être infectés, I représente les per
 
 Plusieurs autres paramètres vont entrer en jeu : \beta représente le nombre de personnes rencontrées par un individu
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
 Voici l’algorithme permettant la compression d’une image :
 ![alt text](https://github.com/JulienChoukroun/PythonMAM3S5/blob/master/Documentation/algo.png "Algorithme")
 
