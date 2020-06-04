@@ -11,15 +11,9 @@ S représente les sujets susceptibles d’être infectés, I représente les per
 
 Plusieurs autres paramètres vont entrer en jeu : β représente le nombre de personnes rencontrées par un individu, γ représente le taux de guérison, α représente la quantité d’individu sélectionnés pour être traités, η représente le taux déterminant le passage du compartiment T au R.
 
-
+![alt text](https://github.com/JulienChoukroun/Modelisation-de-la-propagation-d-une-epidemie-Python/blob/master/Images/SystemeEquations.png "Système d'équations de départ")
 
 Différentes méthodes de résolution de système ont été utilisées, comme la méthode de Newton et la méthode du point fixe avec une méthode d’Euler implicite pour une résolution d’un système d’équations non-linéaires. Ou bien la méthode de Jacobi, la méthode SOR et la méthode de Gauss-Seidel avec une méthode d’Euler explicite pour une résolution d’un système d’équations linéaires.
 
 Des exemples de résultats :
-
-
-
-
-Voici l’algorithme permettant la compression d’une image :
-![alt text](https://github.com/JulienChoukroun/PythonMAM3S5/blob/master/Documentation/algo.png "Algorithme")
 
