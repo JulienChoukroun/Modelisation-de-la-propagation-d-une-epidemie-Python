@@ -6,10 +6,10 @@
 Ce projet a été réalisé avec le langage Python.
 
 ### Objectifs :
-..* Modélisation de la propagation d’un agent infectieux au sein d’une population est un phénomène dynamique
-..* Effectifs d’individus sains et malades évoluent dans le temps, en fonction des contacts au cours desquels cet agent passe d’un individu infecté à un individu sain non immunisé, l’infectant à son tour.
-..* Modélisation par des équations différentielles.
-..* But : Résoudre numériquement ces équations en mettant en oeuvre les méthodes numériques étudiées.
+* Modélisation de la propagation d’un agent infectieux au sein d’une population est un phénomène dynamique
+* Effectifs d’individus sains et malades évoluent dans le temps, en fonction des contacts au cours desquels cet agent passe d’un individu infecté à un individu sain non immunisé, l’infectant à son tour.
+* Modélisation par des équations différentielles.
+* But : Résoudre numériquement ces équations en mettant en oeuvre les méthodes numériques étudiées.
 
 Pour ce projet, un modèle SIR a été utilisé. Ce modèle a la particularité de tenir compte de la présence d’un traitement. Nous avons la population N qui est divisée en quatre compartiments : S, I, T et R tels que : N=S+I+T+R.
 
