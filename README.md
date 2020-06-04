@@ -6,7 +6,7 @@
 Ce projet a été réalisé avec le langage Python.
 
 ### Objectifs :
-* Modélisation de la propagation d’un agent infectieux au sein d’une population est un phénomène dynamique
+* Modélisation de la propagation d’un agent infectieux au sein d’une population est un phénomène dynamique.
 * Effectifs d’individus sains et malades évoluent dans le temps, en fonction des contacts au cours desquels cet agent passe d’un individu infecté à un individu sain non immunisé, l’infectant à son tour.
 * Modélisation par des équations différentielles.
 * But : Résoudre numériquement ces équations en mettant en oeuvre les méthodes numériques étudiées.
