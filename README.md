@@ -1,6 +1,6 @@
 Ce projet est réalisé dans le cadre de la formation de cycle d'ingénieur (première année) de l'Ecole Polytechnique de l'Université Côte d'Azur.
 ***
-# Modélisation de la propagation d'une épidemie Python
+# Modélisation de la propagation d'une épidémie
 
 ## Présentation
 Ce projet a été réalisé avec le langage Python.
